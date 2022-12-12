@@ -32,5 +32,4 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Installation
 
-You can get the notebook and dataset by using the following command:
-    git clone https://github.com/AbdullahTabassam/Custom-Object-Detection
+    Clone this repository: git clone https://github.com/AbdullahTabassam/House-Sale-Prediction
